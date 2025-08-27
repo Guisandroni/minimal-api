@@ -10,8 +10,11 @@ Accept: application/json
 ###
 POST {{minimal_api_HostAddress}}/login
 Content-Type: application/json
+
 {
-  "Email": "example@teste.com",
-  "Password": "password123"
+  "Email": "Alexandre@admin.com",
+  "Password": "admin123"
+ 
 }
 
+###
